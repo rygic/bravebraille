@@ -12,9 +12,9 @@ $(document).ready( function() {
 	let braille = { 
 		marginWidth: 20, 
 		marginHeight: 20, 
-		paperWidth: 170, 
-		paperHeight: 125, 
-		letterWidth: 2.54, 
+		paperWidth: 210, 
+		paperHeight: 210, 
+		letterWidth: 1.8, 
 		dotRadius: 1.25, 
 		letterPadding: 3.75, 
 		linePadding: 5.3, 
